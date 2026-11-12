@@ -77,7 +77,7 @@ double sigmoid(double z) {
 double total_error(const std::vector<double>& outputs, const std::vector<double>& targets) {
 	double error = 0.0;
 	
-	for (long unsigned int i = 0; i < outputs.size(); i++) {
+	for (std::size_t i = 0; i < outputs.size(); i++) {
 		error += 0.5 * std::pow((outputs.at(i) - targets.at(i)), 2);
 	}
 	
