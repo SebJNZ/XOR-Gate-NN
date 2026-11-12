@@ -52,7 +52,7 @@ int load_file(Network& n) {
 	std::vector<int> instructions; 
 
 	while (string_stream >> temp) { // Loop throughout the input stream
-		instructions.push_back(std::stod(temp)); // Convert string to integer, and push to vector.
+		instructions.push_back(std::stod(temp)); // Convert string to double, and push to vector.
 	}
 	
     n = setup(instructions); // Define our network structure.
