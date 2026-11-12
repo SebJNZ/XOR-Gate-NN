@@ -88,4 +88,4 @@ Enter two binary numbers: 0 1
 ```
 
 ## Credits
-For full disclosure, AI was used to assist me during this project, mostly giving me vague instructions, and the mathematical formulas for the more complex stuff (back-propagation, and forward pass. It was never used to generate code.
+For full disclosure, AI was used to assist me during this project, mostly giving me vague instructions, and the mathematical formulas for the more complex stuff (back-propagation, and forward pass). It was never used to generate code.
