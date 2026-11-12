@@ -86,3 +86,6 @@ Enter two binary numbers: 1 1
 Enter two binary numbers: 0 1
 0.988141
 ```
+
+## Credits
+For full disclosure, AI was used to assist me during this project, mostly giving me vague instructions, and the mathematical formulas for the more complex stuff (back-propagation, and forward pass. It was never used to generate code.
